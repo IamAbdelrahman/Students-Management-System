@@ -4,8 +4,6 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Testing](#testing)
 - [Contact Information](#contact-information)
 
 
